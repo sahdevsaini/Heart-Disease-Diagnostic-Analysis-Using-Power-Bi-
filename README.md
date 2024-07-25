@@ -44,4 +44,4 @@ Excel, MS Power BI
 https://www.linkedin.com/feed/update/urn:li:activity:6859518539053744128/
 
 # Youtube Video 🎬
-https://www.youtube.com/watch?v=7KPqScLw4eY&t=1s
+https://youtu.be/UASOAYzFQcg

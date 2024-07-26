@@ -1,3 +1,7 @@
+# Heart-Disease-Diagnostic-Analysis-Using-Power-Bi
+### Project Overview:
+This project is part of the Data Analysis internship at iNeuron.ai. The internship started on April 17, 2024, focusing on Data Analysis techniques. The goal of this project is to develop a Power Bi Dashboard to analyse the heart disease
+occurrence
 # Objective 🎯
 The goal of this project is to analyse the heart disease
 occurrence, based on a combination of features that
